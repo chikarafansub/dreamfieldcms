@@ -2,7 +2,7 @@
 <html lang="tr-TR" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Dream Field</title>
+    <title>Dream Field CMS</title>
     <link rel="stylesheet" href="../../public/css/bootstrap.min.css">
     <!-- notify css - js Fremwork -->
     <link rel="stylesheet" type="text/css" href="../../public/bower_components/pnotify/css/pnotify.css">
