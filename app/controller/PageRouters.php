@@ -27,8 +27,6 @@ class Pages {
           include PDIR."/create_skill3.php";
         }elseif ($birlestir == File_Path."Viewteam") {
           include PDIR."/view_team.php";
-		}elseif ($birlestir == File_Path."") {
-          include PRDIR."/homedir.php";
 		}elseif ($birlestir == File_Path."whatsnew") {
           include PRDIR."/whatsnew.php";
 		  		}elseif ($birlestir == File_Path."dictionary") {
